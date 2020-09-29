@@ -1,0 +1,17 @@
+export enum FullBodyJointName {
+  Spine = 'spine',
+  Spine2 = 'spine2',
+  Head = 'head',
+  L_UpperArm = 'l_upperArm',
+  L_LowerArm = 'l_lowerArm',
+  L_Wrist = 'l_wrist',
+  L_UpperLeg = 'l_upperLeg',
+  L_LowerLeg = 'l_lowerLeg',
+  L_Ankle = 'l_ankle',
+  R_UpperArm = 'r_upperArm',
+  R_LowerArm = 'r_lowerArm',
+  R_Wrist = 'r_wrist',
+  R_UpperLeg = 'r_upperLeg',
+  R_LowerLeg = 'r_lowerLeg',
+  R_Ankle = 'r_ankle',
+}
